@@ -1,0 +1,83 @@
+@import "navbar/_nav";
+@import "start/_starting";
+@import "animate/_animations";
+
+
+* {
+
+	margin:0px;
+	padding: 0px;
+	font-family: 'Oswald', sans-serif;
+
+}
+
+
+.content {
+
+	margin-top: 50%;
+}
+
+
+#description {
+
+	p {
+
+	text-align: center !important;
+	color: #BDBDBD;
+	margin-top: 5%;
+	}
+
+#yo {
+
+	width: 15%;
+	height: 200px; 
+	margin-left: 45%;
+	margin-top: 10%;
+	border-radius: 300px;
+	border: 3px solid silver;
+	padding: 1%;
+
+
+}
+
+}
+
+#project {
+
+	h1 {
+
+		color: black;
+		text-shadow: 1px 1px 1px #fff;
+
+	}
+}
+
+#conocimiento {
+
+	h2 {
+
+		text-shadow: 1px 1px 1px #fff;
+		text-align: center;
+	}
+
+	h2:hover {
+
+		font-size: 35px;
+		color: aqua;
+		text-shadow: 1px 1px 1px black;
+	}
+}
+.contacto {
+
+	text-align: center;
+	margin-top: 30%;
+	color: aqua;
+}
+#foot {
+
+	background-color: #2E2E2E;
+	color: #BDBDBD;
+	height: 100px;
+	text-align: center;
+
+}
